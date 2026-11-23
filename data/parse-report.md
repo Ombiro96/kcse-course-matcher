@@ -1,0 +1,141 @@
+# Parse report
+
+Generated 2026-11-23T17:28:42.791Z
+
+## Inputs
+- DEGREE_CLUSTER_DOCUMENT_2025_03.pdf
+- DEGREE_PROGRAMMES.pdf
+- DEGREE_PROGRAMMES_2025.pdf
+- Students-Guide-2024-2025.pdf (skipped)
+
+## Clusters (20)
+- **1 Law**: [ENG KIS] · [BIO BSC CHE GSC MAT_A MAT_B PHY PSC] · [CRE GEO HAG HRE IRE SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 1A
+- **2 Business, Hospitality & Related**: [ENG KIS] · [MAT_A MAT_B] · [BIO BSC CHE CRE GEO GSC HAG HRE IRE PHY PSC SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 2A, 2B
+- **3 Social Sciences, Media Studies, Fine Arts, Film, Animation, Graphics & Related**: [ENG KIS] · [BIO BSC CHE GSC MAT_A MAT_B PHY PSC] · [CRE GEO HAG HRE IRE SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 3A, 3B, 3C, 3D, 3E
+- **4 Geosciences & Related**: [MAT_A] · [PHY] · [BIO CHE GEO] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 4A, 4B
+- **5 Engineering, Engineering Technology & Related**: [MAT_A] · [PHY] · [CHE] · [ACC AGR ARB ARD AVT BIO BLD BST CMP COM CRE DRD ELE FRE GEO GER HAG HRE HSC IRE KSL MTW MUS PWM SEE WDW] — sub-clusters 5A, 5B, 5C, 5D, 5E, 5F
+- **6 Architecture, Building Construction & Related**: [MAT_A] · [PHY] · [CRE GEO HAG HRE IRE SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 6A, 6B, 6C
+- **7 Computing, IT & Related**: [MAT_A] · [PHY] · [BIO BSC CHE CRE GEO GSC HAG HRE IRE PHY PSC SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 7A, 7B, 7C
+- **8 Agribusiness & Related**: [MAT_A] · [BIO] · [CHE PHY] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 8A
+- **9 General Science & Related**: [MAT_A] · [BIO BSC CHE GSC PHY PSC] · [BIO BSC CHE GSC PHY PSC] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 9A, 9B, 9C, 9D
+- **10 Actuarial Science, Accountancy, Mathematics, Economics, Statistics & Related**: [MAT_A] · [BIO BSC CHE GSC PHY PSC] · [CRE GEO HAG HRE IRE SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 10A, 10B, 10C
+- **11 Interior Design, Fashion Design, Textiles & Related**: [CHE] · [MAT_A MAT_B PHY] · [BIO HSC] · [ACC AGR ARB ARD AVT BLD BST CMP COM CRE DRD ELE ENG FRE GEO GER HAG HRE HSC IRE KIS KSL MTW MUS PWM SEE WDW] — sub-clusters 11A
+- **12 Sport Science & Related**: [BIO GSC] · [MAT_A MAT_B] · [BIO BSC CHE CRE GEO GSC HAG HRE IRE PHY PSC SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE ENG FRE GEO GER GSC HAG HRE HSC IRE KIS KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 12A
+- **13 Medicine, Health, Veterinary Medicine & Related**: [BIO] · [CHE] · [MAT_A PHY] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE ENG FRE GEO GER GSC HAG HRE HSC IRE KIS KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 13A, 13B, 13C, 13D, 13E, 13F, 13G
+- **14 History, Archaeology & Related**: [HAG] · [ENG KIS] · [BIO BSC CHE GSC MAT_A MAT_B PHY PSC] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 14A
+- **15 Agriculture, Animal Health, Food Science, Nutrition & Dietetics, Environmental Sciences, Natural Resources & Related**: [BIO] · [CHE] · [GEO MAT_A PHY] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE ENG FRE GEO GER GSC HAG HRE HSC IRE KIS KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 15A, 15B, 15C, 15D, 15E, 15F, 15G
+- **16 Geography & Related**: [GEO] · [MAT_A MAT_B] · [BIO BSC CHE GSC PHY PSC] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 16A
+- **17 French, German & Related**: [FRE GER] · [ENG KIS] · [BIO BSC CHE CRE GEO GSC HAG HRE IRE MAT_A MAT_B PHY PSC SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 17A
+- **18 Music & Related**: [MUS] · [ENG KIS] · [BIO BSC CHE CRE GEO GSC HAG HRE IRE MAT_A MAT_B PHY PSC SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 18A
+- **19 Education & Related**: [ENG] · [BIO BSC CHE GSC MAT_A MAT_B PHY PSC] · [BIO BSC CHE GSC PHY PSC] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM CRE DRD ELE FRE GEO GER GSC HAG HRE HSC IRE KIS KSL MTW MUS PHY PSC PWM SEE WDW] — sub-clusters 19A, 19B, 19C, 19D, 19E, 19F, 19G, 19H, 19I, 19J, 19K
+- **20 Religious Studies, Theology, Islamic Studies & Related**: [CRE HRE IRE] · [ENG KIS] · [CRE GEO HAG HRE IRE SEE] · [ACC AGR ARB ARD AVT BIO BLD BSC BST CHE CMP COM DRD ELE FRE GER GSC HSC KSL MTW MUS PHY PSC PWM WDW] — sub-clusters 20A
+
+## Programmes
+- 2084 programmes, cutoff years 2022, 2023
+- 1955 have at least one cutoff; 129 have none ("-")
+- Cluster assigned: 2045 (code 1901, code suffix 124, name 20, override 0)
+- Sub-cluster from code disagrees with cluster-document name match: 19 (informational)
+- In sub-cluster tables but not in any cutoff table (dropped): 40
+- **No cluster (excluded from matching): 39** — add to overrides.json → programmes → { "CODE": { "subcluster": "2A" } }
+  - 1181167 Bachelor of Music in Music Education — University of Eastern Africa, Baraton
+  - 1181172 Bachelor of Science in Biomedical Science — University of Eastern Africa, Baraton
+  - 1112633 Bachelor of Technology (Information Studies) — Technical University of Kenya
+  - 1279255 Bachelor in Supply Chain and Logistics Management — Mount Kenya University
+  - 1165339 Bachelor of Environmental Studies (Earth Sciences) — Maasai Mara University
+  - 1165341 Bachelor of Science in Parks, Recreation and Leisure Management — Maasai Mara University
+  - 1495346 Bachelor of Science in Ecology and Environment — Lukenya University
+  - 1515351 Bachelor of Land and Estate Management — Tom Mboya University
+  - 1162433 Bachelor of Commerce in Management Information Systems — Daystar University
+  - 1117499 Bachelor of Education Science (Computer) — Pwani University
+  - 1079637 Bachelor of Science in Epidemiology and Medical Statistics — Kirinyaga University
+  - 1495671 Bachelor of Arts in Public Administration and County Governance — Lukenya University
+  - 1079173 Bachelor of Technology in Water, Irrigation and Environmental Engineering — Kirinyaga University
+  - 1079139 Bachelor of Technology in Mechanical Ventilation and Air Conditioning — Kirinyaga University
+  - 1253678 Bachelor of Science in Health Informatics — Moi University
+  - 1279612 Bachelor of Organizational Management and Technology — Mount Kenya University
+  - 1229B52 Bachelor of Science in Eco-tourism, Hotel and Institution Management — Maseno University
+  - 1093B69 Bachelor of Information Science — University of Embu
+  - 1263B69 Bachelor of Information Science — University of Nairobi
+  - 1082B74 Bachelor of Technology in Cosmetology and Beauty Science — Masinde Muliro University of Science & Technology
+  - 1112B77 Bachelor of Technology (Printing Technology) — Technical University of Kenya
+  - 1079B81 Bachelor of Technology in Renewable Energy — Kirinyaga University
+  - 1181B82 Bachelor of Business Administration in Finance — University of Eastern Africa, Baraton
+  - 1162C25 Bachelor of Arts in English Language and Literature — Daystar University
+  - 1082C36 Bachelor of Science in Information Systems and Knowledge Management — Masinde Muliro University of Science & Technology
+  - 1470C36 Bachelor of Science in Information Systems and Knowledge Management — Kaimosi Friends University
+  - 1164E47 Bachelor of Animation and Graphics Design — Multimedia University of Kenya
+  - 1082G66 Bachelor of Science in Biosafety and Biosecurity — Masinde Muliro University of Science & Technology
+  - 1091G67 Bachelor of Science in Rangeland Ecosystem Management — Taita Taveta University
+  - 1515C20 Bachelor of Science in Employment and Labour Studies — Tom Mboya University
+  - 1162602 Bachelor of Arts in English — Daystar University
+  - 1111668 Bachelor of Security Science and Management — Kenyatta University
+  - 5145J24 Bachelor of Agri Technology and Food Systems — Open University of Kenya
+  - 1181J25 Bachelor of Science in Aviation Management — University of Eastern Africa, Baraton
+  - 1181J26 Bachelor of Science in Fashion and Textile Design — University of Eastern Africa, Baraton
+  - 1181J28 Bachelor of Science in Hotel and Hospitality Management — University of Eastern Africa, Baraton
+  - 1114J29 Bachelor of Science in Disaster Management — University of Eldoret
+  - 1114J30 Bachelor of Arts in Human Resource Management — University of Eldoret
+  - 1114J31 Bachelor of Arts in Communication and Media Studies — University of Eldoret
+
+## Warnings (61)
+- DEGREE_PROGRAMMES_2025.pdf p6 1057120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1057120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1061120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1061120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1079120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1079120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1096120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1096120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1105120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1105120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1685120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1685120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1111120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1111120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1114120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1114120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1263120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1263120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1229120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1229120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1515120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1515120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1093120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1093120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1118120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1118120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1253120: could not read requirement "BIO(231)/CHE(233)/PHY(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p6 1253120: could not read requirement "BIO(231)/CHE(233)/PHY(232)" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p26 1229166: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p27 1515166: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p43 1111282: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p43 1082282: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p43 1470282: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p43 1117282: could not read requirement "ENG(101)/KIS(102)/MATA(121)/MATB(122)/HAG(311)/GEO(312)/CRE(313)/IRE(314)/HRE(315)/SEE(316)/HSC(441)/ARD(442)/CMP(451)/GER(502)/ARB(503)/KSL(504)/MUC(511)/ACC(561)/COM(562)/BST(" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1114293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1253293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1229293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1057293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1105293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1087293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1244293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p44 1685293: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p46 1082315: could not read requirement "MAT A(121)/MATB(122)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p46 1111315: could not read requirement "MAT A(121)/MATB(122)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p46 1114315: could not read requirement "MAT A(121)/MATB(122)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p46 1263316: could not read requirement "MAT A(121)/MATB(122)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p62 1073543: could not read requirement "PHY(232)/CHE(233)/PSC(23" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p74 1105693: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- DEGREE_PROGRAMMES_2025.pdf p76 1117B71: could not read requirement "MATA(121)/PHY(232)/CHE(233):" (clipped in PDF?) — using sub-cluster minimums from the cluster document
+- 1229166: requirement unreadable and no sub-cluster minimums to fall back on
+- 1515166: requirement unreadable and no sub-cluster minimums to fall back on
+- 1111282: requirement unreadable and no sub-cluster minimums to fall back on
+- 1082282: requirement unreadable and no sub-cluster minimums to fall back on
+- 1470282: requirement unreadable and no sub-cluster minimums to fall back on
+- 1117282: requirement unreadable and no sub-cluster minimums to fall back on
+- 1165340: sub-cluster 6D not in cluster document
+- 1112472: sub-cluster 6D not in cluster document
+- 1053485: sub-cluster 6D not in cluster document
+- 1111485: sub-cluster 6D not in cluster document
+- 1112665: sub-cluster 6D not in cluster document
+- 1229765: sub-cluster 6D not in cluster document

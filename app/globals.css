@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+/*
+ * Gallery-white product-page system: white canvas, #f5f5f7 feature bands, shadowless 28px cards,
+ * Ink type with tight negative tracking, and one saturated blue kept for links and conversion pills.
+ * Light only. Fonts are local system faces (SF Pro on Apple devices, Roboto on Android) — no download.
+ */
+@theme {
+  --color-canvas: #ffffff; /* page, cards */
+  --color-mist: #f5f5f7; /* alternate full-width bands, footer */
+  --color-frost: #fafafc; /* translucent nav */
+  --color-hairline: #d6d6d6; /* 1px dividers */
+  --color-control: #e6e6e8; /* disabled fills, bar tracks */
+  --color-ink: #1d1d1f; /* headlines, body */
+  --color-slate: #707070; /* secondary copy */
+  --color-steel: #86868b; /* input outlines, inactive */
+  --color-link: #0066cc; /* inline + section links */
+  --color-action: #0071e3; /* filled conversion pills only */
+  --color-launch: #b64400; /* small bare-text status labels */
+
+  --font-display: "SF Pro Display", "SF Pro", -apple-system, BlinkMacSystemFont, Inter, "Helvetica Neue", Roboto, system-ui, sans-serif;
+  --font-sans: "SF Pro Text", "SF Pro", -apple-system, BlinkMacSystemFont, Inter, "Helvetica Neue", Roboto, system-ui, sans-serif;
+
+  /* Type scale (size / line-height / tracking) */
+  --text-hero: 80px;
+  --text-hero--line-height: 1.05;
+  --text-hero--letter-spacing: -0.015em;
+  --text-display: 48px;
+  --text-display--line-height: 1.08;
+  --text-display--letter-spacing: -0.003em;
+  --text-feature: 40px;
+  --text-feature--line-height: 1.1;
+  --text-feature--letter-spacing: 0em;
+  --text-title: 28px;
+  --text-title--line-height: 1.14;
+  --text-title--letter-spacing: 0.007em;
+  --text-subtitle: 24px;
+  --text-subtitle--line-height: 1.17;
+  --text-subtitle--letter-spacing: 0.009em;
+  --text-kicker: 21px;
+  --text-kicker--line-height: 1.19;
+  --text-kicker--letter-spacing: 0.011em;
+  --text-nav-title: 19px;
+  --text-nav-title--line-height: 1.21;
+  --text-nav-title--letter-spacing: 0.012em;
+  --text-body: 17px;
+  --text-body--line-height: 1.47;
+  --text-body--letter-spacing: -0.022em;
+  --text-body-tight: 17px;
+  --text-body-tight--line-height: 1.24;
+  --text-body-tight--letter-spacing: -0.022em;
+  --text-small: 14px;
+  --text-small--line-height: 1.43;
+  --text-small--letter-spacing: -0.016em;
+  --text-caption: 12px;
+  --text-caption--line-height: 1.33;
+  --text-caption--letter-spacing: -0.01em;
+
+  --radius-card: 28px;
+  --radius-nav: 20px;
+  --radius-pill: 9999px;
+
+  --shadow-ring: 0 0 0 1px #e6e6e8;
+  --shadow-ring-strong: 0 0 0 1px #86868b;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  line-height: var(--text-body--line-height);
+  letter-spacing: var(--text-body--letter-spacing);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+}
+
+select {
+  /* Native pickers are fastest on low-end Android; give them a quiet chevron. */
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11' height='7' fill='none' stroke='%2386868b' stroke-width='1.5'%3E%3Cpath d='M1 1l4.5 4.5L10 1'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  padding-right: 32px;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-action);
+  outline-offset: 2px;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
